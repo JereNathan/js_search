@@ -6,6 +6,5 @@ Create By Jeremias Nathanael:
 GitHub: https://github.com/JereNathan/
 
 === IMPORTANT ===
-To use correctly this search use OI_JavaScript: a Minimal Library to Javascript
-
+To use correctly this search use OI_JavaScript: a Minimal Library to Javascript https://github.com/JereNathan/OI_JavaScript/
 Thanks for Use!!!
